@@ -12,27 +12,41 @@
 .Stay-container{
     background-color: rgba(13, 246, 246, 0.2);
     padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .Calm-container{
   padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .Unlock-container{
   background-color: rgba(219, 58, 190, 0.2);
   padding : 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .Discover-container{
   padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .User-container{
   background-color: rgba(219, 58, 190, 0.2);
   padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .Therapists-container{
   background-color: rgba(13, 246, 246, 0.2);
   padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .FAQs-container{
   padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .CTA-container{
   background-image: url(https://framerusercontent.com/images/qluJUk2F6jTpSQqqQnH85O7Z0U.jpg?scale-down-to=2048);
@@ -41,7 +55,13 @@
     background-repeat: no-repeat;
     min-height: 300px;
     padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .Footer-container{
   padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
+
+
